@@ -66,7 +66,7 @@ class Diffie_Helman:
     def __init__(self, q, g):
         self.q=q
         self.g=g
-        self.private_key=random.randradnge(2, self.q)
+        self.private_key=random.randrange(2, self.q)
         self.public_key=mod_pow(self.g, self.private_key, self.q)
     
     def get_key(self, pub_key):
