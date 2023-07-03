@@ -6,8 +6,9 @@ class Point:
 		return f'Elliptic curve point!'
 
 def main():
+	p=Point()
+	print(p)
 
 
-
-if __name__=="main":
+if __name__=="__main__":
 	main()					
