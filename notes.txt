@@ -1,0 +1,25 @@
+Preparation for the oral exam!
+There are 43 exam questions out there!
+The script from which we are studying consist of two parts. The first one is cryptology and the second one is crypotanalysis!
+The list of exam questions that are related to the cryptology:
+1.
+2.
+3.
+4.
+5.
+6. 
+7.
+8.
+9.
+10.
+
+28. KERBEROS
+29. Controling/Manipulating (with) the keys
+30. Sharing the secret
+The list of exam questions that are related to the cryptoanalysis:
+31. Cryptoanalysis - basic terms, Vizner password 
+32. Cryptoanalysis of a array created by Linear Moving Register
+33. 
+34.
+35.
+36.
